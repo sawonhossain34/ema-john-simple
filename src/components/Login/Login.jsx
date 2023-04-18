@@ -49,6 +49,7 @@ const Login = () => {
             <p><small>New to Ema John? <Link to='/signup'>Create New Account</Link></small></p>
         </div>
     );
-};
+}; 
+
 
 export default Login;
